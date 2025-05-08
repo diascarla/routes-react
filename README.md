@@ -24,6 +24,10 @@ Permite que a navegação entre componentes seja feita de forma suave, sem que a
 
 ## Requisítos
 Navegação entre páginas.
+- Home
+- Contato
+- Empresa
+- Not found - caso a rota não seja encontrada.
 
 ## Funcionalidades do Projeto✨
 Ao clicar no link desejado, o usuário é direcionado para a próxima página.
@@ -40,3 +44,6 @@ Ao clicar no link desejado, o usuário é direcionado para a próxima página.
 
 ## Layout 
 <img src="./src/assets/animacao-router.gif">
+
+**Roda não encontrada**
+<img src="./src/assets/image6.png">
