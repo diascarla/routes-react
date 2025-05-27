@@ -46,4 +46,5 @@ Ao clicar no link desejado, o usuário é direcionado para a próxima página.
 <img src="./src/assets/animacao-router.gif">
 
 **Rota não encontrada**
+<br>
 <img src="./src/assets/image6.png">
